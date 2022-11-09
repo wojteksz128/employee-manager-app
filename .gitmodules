@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:wojteksz128/employee-manager-app-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:wojteksz128/employee-manager-app-frontend.git
